@@ -1,0 +1,172 @@
+body{
+  margin: 0;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.title{
+  margin: auto;
+  font-family: Amatic SC, serif;
+  font-size: 6.625rem;
+  color: #A084CA;
+  line-height: 2;
+
+}
+
+.Web{
+  font-family: Amatic SC, serif;
+  font-size: 2.5rem;
+  color: #A084CA;
+  font-weight: normal;
+}
+
+h1{
+  font-family: Amatic SC, serif;
+  color: #A084CA;
+  font-size: 2.5rem;
+}
+
+h2{
+  font-family: Amatic SC, serif;
+  color: #A084CA;
+  font-size: 2.5rem;
+  font-weight:bold;
+}
+
+h3{
+  font-family: Amatic SC, serif;
+  color: #A084CA;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+a{
+  color: #FAF7F0;
+  margin: 0 10px;
+  font-family: 'Space Mono', monospace;
+}
+
+hr{
+  border-style: dotted;
+  border-width: 15px;
+  border-color: #293462;
+  width: 7%;
+  border-bottom: 0;
+}
+
+p{
+  font-family: 'Space Mono', monospace;
+}
+
+.Hello{
+  width: 35%;
+  margin: 50px auto;
+}
+
+.Skills{
+  width: 50%;
+  margin: 100px auto 100px auto;
+}
+
+.skill-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.programmer-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row{
+  text-align:left;
+  line-height: 2;
+}
+
+.profile-pic{
+  border-radius: 10%;
+  width: 200px;
+  margin: 50px;
+
+}
+
+.top-container{
+  background-color: #BCCEF8;
+  padding-top: 100px;
+}
+
+.middle-container{
+  background-color: #BCCEF8;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.bottom-container{
+  background-color: #293462;
+  padding-top: 20px;
+}
+
+.top-cloud{
+  margin-left: 400px;
+  padding-top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  top: 250px;
+}
+
+.contact-message{
+  width: 40%;
+  margin: 50px auto;
+}
+
+.linkedin{
+  width: 20px;
+  margin: 10px 0;
+  position: fixed;
+  bottom: 55;
+  left: 580;
+}
+
+.twitter{
+  width: 20px;
+  margin: 10px 0;
+}
+
+.website{
+  width: 20px;
+  margin: 10px 0;
+}
+
+.surname{
+  margin-bottom: 0;
+  padding-bottom: 20px;
+  color: #FAF7F0;
+
+}
+
+.btn {
+  -webkit-border-radius: 13;
+  -moz-border-radius: 13;
+  border-radius: 13px;
+  font-family: Amatic SC, serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #91aad6;
+  padding: 10px 15px;
+  border: solid #7dabc4 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #1b5980;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}}
